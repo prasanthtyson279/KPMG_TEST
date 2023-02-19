@@ -1,0 +1,13 @@
+# Tier architecture using Azure resources
+
+Below are the Azure resources used for designing the architecture
+
+1. Azure AD
+2. Webapp
+3. Web Application Firewall
+4. Load balancer
+5. Azure Kubernetes Services
+6. Cosmos DB
+7. Azure Keyvault
+8. Azure Devops Pipelines
+
